@@ -1,6 +1,6 @@
 # CSV Reader Columnar
 
-A Java-based columnar CSV processing engine that uses a chunk-based pipeline architecture for efficient data filtering and projection operations.
+A columnar CSV processing engine that uses a chunk-based pipeline architecture for efficient data filtering and projection operations.
 
 ## Overview
 
@@ -155,3 +155,4 @@ This project is part of an educational/experimental implementation.
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
